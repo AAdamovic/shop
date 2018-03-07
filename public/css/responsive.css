@@ -1,0 +1,45 @@
+@media(min-width:768px){
+ 
+    .header-top{
+        text-align: right;
+    } 
+    .header-top .social,
+    .header-top .sign-in{
+        display: inline-block;
+        text-align: center;
+    }
+    
+    
+    /*About section*/
+.about{
+    padding: 100px 0;
+}
+      
+}
+
+
+
+
+@media(min-width:992px){
+   
+    
+    /*MAIN-IMG section*/
+    .main-img{
+        padding: 230px 0 330px;
+    }
+    .main-img h2{
+        font-size: 35px;
+    }
+    .main-img p{
+        font-size: 16px;
+    }
+    .aside{
+        display: block;
+    }
+}
+
+@media(min-width:1200px){
+   
+    
+    
+}
